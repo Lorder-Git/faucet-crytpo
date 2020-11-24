@@ -1,4 +1,4 @@
-import { async, ComponentFixture, TestBed } from '@angular/core/testing';
+import { ComponentFixture, TestBed, waitForAsync } from '@angular/core/testing';
 
 import { CryptoConnectComponent } from './crypto-connect.component';
 
@@ -6,7 +6,7 @@ describe('CryptoConnectComponent', () => {
   let component: CryptoConnectComponent;
   let fixture: ComponentFixture<CryptoConnectComponent>;
 
-  beforeEach(async(() => {
+  beforeEach(waitForAsync(() => {
     TestBed.configureTestingModule({
       declarations: [ CryptoConnectComponent ]
     })
