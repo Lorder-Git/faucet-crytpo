@@ -1,63 +1,18 @@
-# [Crypto FAucet System Angular]
+# [Crypto Faucet System Angular]
 Offers a range of earning opportunities for people who wish to build a portfolio of cryptocurrencies.
 
 **Fully Coded Components**
 
 Crypto Faucet System Angular is built with over 50 individual components, giving you the freedom of choosing and combining. All components can take variations of a cryptocurrency faucets that [Crypto Faucet] users visit every day to claim a small amount of cryptocurrency. There are 17 available daily faucets on [Crypto Faucet] ranging from top cyptocurrencies such as Bitcoin and Ethereum.
-You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Kit is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
-Every element has multiple states for colors, styles, hover, focus, that you can easily access and use.
 
 **Complex Documentation**
 
-Each element is well presented in a very complex documentation. You can read more about the idea behind this [kit here](https://demos.creative-tim.com/argon-design-system-angular/documentation/tutorial?ref=adsa-github-readme). You can check the [components here](https://demos.creative-tim.com/argon-design-system-angular/documentation/alerts?ref=adsa-github-readme) and the [foundation here](https://demos.creative-tim.com/argon-design-system-angular/documentation/colors?ref=adsa-github-readme).
-
-**Example Pages**
-
-If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project.
-
-
-## Table of Contents
-
-* [Versions](#versions)
-* [Demo](#demo)
-* [Quick Start](#quick-start)
-* [Documentation](#documentation)
-* [File Structure](#file-structure)
-* [Browser Support](#browser-support)
-* [Resources](#resources)
-* [Reporting Issues](#reporting-issues)
-* [Licensing](#licensing)
-* [Useful Links](#useful-links)
-
-## Versions
-
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/argon-design-system)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/angular-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/argon-design-system-angular)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/vue-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/vue-argon-design-system)
-
-
-
-| HTML | Angular | Vue  |
-| --- | --- | ---  |
-| [![Argon Design System HTML](https://github.com/creativetimofficial/public-assets/blob/master/argon-design-system/argon-design-system.jpg?raw=true)](https://www.creative-tim.com/product/argon-design-system?ref=adsa-github-readme)  | [![Argon Design System Angular](https://github.com/creativetimofficial/public-assets/blob/master/argon-design-system-angular/argon-design-system-angular.jpg?raw=true)](https://www.creative-tim.com/product/argon-design-system-angular?ref=adsa-github-readme)  | [![Vue Argon Design System](https://github.com/creativetimofficial/public-assets/blob/master/vue-argon-design-system/vue-argon-design-system.jpg?raw=true)](https://www.creative-tim.com/product/vue-argon-design-system?ref=adsa-github-readme)
-
-
-## Demo
-
-| Buttons | Inputs | Navbars  |
-| --- | --- | ---  |
-| [![Buttons](https://github.com/creativetimofficial/public-assets/blob/master/argon-design-system-angular/buttons.png?raw=true)](https://demos.creative-tim.com/argon-design-system-angular/home)  | [![Inputs](https://github.com/creativetimofficial/public-assets/blob/master/argon-design-system-angular/inputs.png?raw=true)](https://demos.creative-tim.com/argon-design-system-angular/home)  | [![Navbar](https://github.com/creativetimofficial/public-assets/blob/master/argon-design-system-angular/navbars.png?raw=true)](https://demos.creative-tim.com/argon-design-system-angular/home)  
-
-| Login Page | Landing Page | Profile Page  | Register Page  |
-| --- | --- | ---  | ---  |
-| [![Login Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-design-system-angular/login.png)](https://demos.creative-tim.com/argon-design-system-angular/login)  | [![Landing Page](https://github.com/creativetimofficial/public-assets/blob/master/argon-design-system-angular/landing.png?raw=true)](https://demos.creative-tim.com/argon-design-system-angular/landing)  | [![Profile Page](https://github.com/creativetimofficial/public-assets/blob/master/argon-design-system-angular/profile.png?raw=true)](https://demos.creative-tim.com/argon-design-system-angular/user-profile)  | [![Register Page](https://github.com/creativetimofficial/public-assets/blob/master/argon-design-system-angular/register.png?raw=true)](https://demos.creative-tim.com/argon-design-system-angular/register)  
-
-[View More](https://demos.creative-tim.com/argon-design-system-angular/home)
-
-
+Each element is well presented in a very complex documentation.
 
 ## Quick start
 
 - [Download from Github](https://github.com/creativetimofficial/argon-design-system-angular/archive/master.zip).
-- [Download from Creative Tim](https://www.creative-tim.com/product/argon-design-system-angular?ref=adsa-github-readme).
+- [Download from Crypto Faucet](https://www.creative-tim.com/product/argon-design-system-angular?ref=adsa-github-readme).
 - Clone the repo: `git clone https://github.com/creativetimofficial/argon-design-system-angular.git`.
 
 
