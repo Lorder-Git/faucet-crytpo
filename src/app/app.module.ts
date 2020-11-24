@@ -15,6 +15,10 @@ import { FooterComponent } from './shared/footer/footer.component';
 
 import { HomeModule } from './home/home.module';
 import { LoginComponent } from './login/login.component';
+import { CryptoConnectComponent } from './crypto/crypto-connect/crypto-connect.component';
+import { CryptoComponent } from './crypto/crypto-repository/crypto.component';
+import { ExternalServiceService } from './service/external-service.service';
+import { LocalServiceService } from './service/local-service.service';
 
 @NgModule({
   declarations: [
@@ -24,7 +28,9 @@ import { LoginComponent } from './login/login.component';
     ProfileComponent,
     NavbarComponent,
     FooterComponent,
-    LoginComponent
+    LoginComponent,
+    CryptoConnectComponent,
+    CryptoComponent
   ],
   imports: [
     BrowserModule,
@@ -34,7 +40,7 @@ import { LoginComponent } from './login/login.component';
     AppRoutingModule,
     HomeModule
   ],
-  providers: [],
+  providers: [LocalServiceService, ExternalServiceService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
