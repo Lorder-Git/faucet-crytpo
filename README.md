@@ -174,7 +174,7 @@ We use GitHub Issues as the official bug tracker for the Crypto Faucet System An
 
 ## Licensing
 
-- Copyright 2020 Crypto Faucet(https://www.crypto-faucet.com/)
+- Copyright 2020 Crypto Faucet (https://www.crypto-faucet.com/)
 
 - Licensed under MIT (https://github.com/lorder-git/faucet-crypto/blob/master/LICENSE.md)
 
